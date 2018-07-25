@@ -28,6 +28,8 @@ If you face any problem, kindly raise an issue
 2) Now you need to have the data, run `train.py` which will load data from pickle. After this, the training process begins.
 3) For testing it on the video, run `run.py`
 
+<img src="https://github.com/mankadronit/SelfDrivingCar/blob/master/run.mov">
+
 ### References:
  
  - Mariusz Bojarski, Davide Del Testa, Daniel Dworakowski, Bernhard Firner, Beat Flepp, Prasoon Goyal, Lawrence D. Jackel, Mathew Monfort, Urs Muller, Jiakai Zhang, Xin Zhang, Jake Zhao, Karol Zieba. [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316)
