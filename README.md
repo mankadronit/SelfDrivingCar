@@ -28,7 +28,7 @@ If you face any problem, kindly raise an issue
 2) Now you need to have the data, run `train.py` which will load data from pickle. After this, the training process begins.
 3) For testing it on the video, run `run.py`
 
-<img src="https://github.com/mankadronit/SelfDrivingCar/blob/master/run.mov">
+<img src="https://github.com/mankadronit/SelfDrivingCar/blob/master/run_final.gif">
 
 ### References:
  
