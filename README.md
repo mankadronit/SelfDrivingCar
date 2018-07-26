@@ -34,7 +34,7 @@ If you face any problem, kindly raise an issue
  
  - Mariusz Bojarski, Davide Del Testa, Daniel Dworakowski, Bernhard Firner, Beat Flepp, Prasoon Goyal, Lawrence D. Jackel, Mathew Monfort, Urs Muller, Jiakai Zhang, Xin Zhang, Jake Zhao, Karol Zieba. [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316)
  - [Behavioral Cloning Project](https://github.com/udacity/CarND-Behavioral-Cloning-P3) 
- - This project also took a lot of inspiration from [Autopilit-Tensorflow](https://github.com/SullyChen/Autopilot-TensorFlow)
+ - This project also took a lot of inspiration from [Autopilot-Tensorflow](https://github.com/SullyChen/Autopilot-TensorFlow)
 
 
 
